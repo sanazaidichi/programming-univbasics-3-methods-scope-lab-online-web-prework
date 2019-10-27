@@ -11,10 +11,11 @@ end
 
 def link 
   phrase = 'It\'s Dangerous To Go Alone! Take This.'
-  status
+  status = 'It\'s Dangerous To Go Alone! Take This.'
+  phrase
 end 
 
-def any_phrase 
+
   
 
 
